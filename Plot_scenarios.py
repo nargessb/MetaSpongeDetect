@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import os
 import pandas as pd
 
@@ -167,3 +165,4 @@ for var in variables:
     print("Saved:", out)
 
     plt.show()
+
