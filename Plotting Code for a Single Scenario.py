@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 21 14:31:33 2025
-
-@author: narges.babadi1
-"""
-
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -576,4 +569,5 @@ out_acc = "GTSRB50_TrainAccGrid_MergedBudgets.png"
 plt.savefig(os.path.join(SAVE_FOLDER, out_acc), dpi=300, bbox_inches="tight")
 plt.show()
 print("Saved:", out_acc)
+
 
