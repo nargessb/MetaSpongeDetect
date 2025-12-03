@@ -3,4 +3,4 @@ MetaSpongeDetect is a meta-learning–based framework for detecting sponge attac
 The method learns cross-scenario temporal patterns of instability rather than dataset-specific or architecture-specific cues, enabling generalization across models, datasets, and attack configurations.
 
 License
-MIT License (or specify another license here).
+MIT License.
