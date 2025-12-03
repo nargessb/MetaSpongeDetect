@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import os
 import glob
 import pandas as pd
@@ -422,3 +420,4 @@ def main_detection_with_threshold(scenarios_stats, y):
 
 # Run the main detection with threshold
 main_detection_with_threshold(data, y)
+
