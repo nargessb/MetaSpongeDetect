@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 11 17:17:10 2025
-
-@author: narge
-"""
-
 
 import os
 import glob
@@ -924,4 +917,5 @@ print("FOMAML-RNN (TF-compiled) latency:", lat_compiled, "ms")
 
 lat_baseline = measure_lr_latency(baseline_model, sample)
 print("Logistic Regression baseline latency:", lat_baseline, "ms")
+
 
